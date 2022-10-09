@@ -1,4 +1,4 @@
-# <p align="center"> Problem </p>
+# <p align="center"> Solve the Problem! </p>
 
 Your client, Webster University is pursing to have their History of Webster University web page redesigned to increase usability and functionality. 
 All of the text, images, and a sample.html (w/table formatting) are provided for you within the Midterm_Local_HostDownload Midterm_Local_Host folder. 
